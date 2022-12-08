@@ -1,0 +1,6 @@
+# Virtual environment
+libs/
+# Database
+db.sqlite3
+# Byte-code
+*.pyc
